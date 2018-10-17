@@ -1,0 +1,36 @@
+C:\Users\KaPi\Desktop\real Bubble Trouble\real Bubble Trouble\bin\Debug\csfml-audio-2.dll
+C:\Users\KaPi\Desktop\real Bubble Trouble\real Bubble Trouble\bin\Debug\csfml-graphics-2.dll
+C:\Users\KaPi\Desktop\real Bubble Trouble\real Bubble Trouble\bin\Debug\csfml-system-2.dll
+C:\Users\KaPi\Desktop\real Bubble Trouble\real Bubble Trouble\bin\Debug\csfml-window-2.dll
+C:\Users\KaPi\Desktop\real Bubble Trouble\real Bubble Trouble\bin\Debug\libsndfile-1.dll
+C:\Users\KaPi\Desktop\real Bubble Trouble\real Bubble Trouble\bin\Debug\openal32.dll
+C:\Users\KaPi\Desktop\real Bubble Trouble\real Bubble Trouble\bin\Debug\OpenTK.Compatibility.dll
+C:\Users\KaPi\Desktop\real Bubble Trouble\real Bubble Trouble\bin\Debug\OpenTK.dll
+C:\Users\KaPi\Desktop\real Bubble Trouble\real Bubble Trouble\bin\Debug\real Bubble Trouble.exe.config
+C:\Users\KaPi\Desktop\real Bubble Trouble\real Bubble Trouble\bin\Debug\real Bubble Trouble.exe
+C:\Users\KaPi\Desktop\real Bubble Trouble\real Bubble Trouble\bin\Debug\real Bubble Trouble.pdb
+C:\Users\KaPi\Desktop\real Bubble Trouble\real Bubble Trouble\bin\Debug\sfmlnet-audio-2.dll
+C:\Users\KaPi\Desktop\real Bubble Trouble\real Bubble Trouble\bin\Debug\sfmlnet-graphics-2.dll
+C:\Users\KaPi\Desktop\real Bubble Trouble\real Bubble Trouble\bin\Debug\sfmlnet-system-2.dll
+C:\Users\KaPi\Desktop\real Bubble Trouble\real Bubble Trouble\bin\Debug\sfmlnet-window-2.dll
+C:\Users\KaPi\Desktop\real Bubble Trouble\real Bubble Trouble\obj\Debug\real Bubble Trouble.csprojAssemblyReference.cache
+C:\Users\KaPi\Desktop\real Bubble Trouble\real Bubble Trouble\obj\Debug\real Bubble Trouble.csproj.CoreCompileInputs.cache
+C:\Users\KaPi\Desktop\real Bubble Trouble\real Bubble Trouble\obj\Debug\real Bubble Trouble.csproj.CopyComplete
+C:\Users\KaPi\Desktop\real Bubble Trouble\real Bubble Trouble\obj\Debug\real Bubble Trouble.exe
+C:\Users\KaPi\Desktop\real Bubble Trouble\real Bubble Trouble\obj\Debug\real Bubble Trouble.pdb
+C:\Users\KaPi\Desktop\a\Nowy folder (2)\programowanie\c#\real Bubble Trouble\real Bubble Trouble\bin\Debug\csfml-audio-2.dll
+C:\Users\KaPi\Desktop\a\Nowy folder (2)\programowanie\c#\real Bubble Trouble\real Bubble Trouble\bin\Debug\csfml-graphics-2.dll
+C:\Users\KaPi\Desktop\a\Nowy folder (2)\programowanie\c#\real Bubble Trouble\real Bubble Trouble\bin\Debug\csfml-system-2.dll
+C:\Users\KaPi\Desktop\a\Nowy folder (2)\programowanie\c#\real Bubble Trouble\real Bubble Trouble\bin\Debug\csfml-window-2.dll
+C:\Users\KaPi\Desktop\a\Nowy folder (2)\programowanie\c#\real Bubble Trouble\real Bubble Trouble\bin\Debug\libsndfile-1.dll
+C:\Users\KaPi\Desktop\a\Nowy folder (2)\programowanie\c#\real Bubble Trouble\real Bubble Trouble\bin\Debug\openal32.dll
+C:\Users\KaPi\Desktop\a\Nowy folder (2)\programowanie\c#\real Bubble Trouble\real Bubble Trouble\bin\Debug\OpenTK.Compatibility.dll
+C:\Users\KaPi\Desktop\a\Nowy folder (2)\programowanie\c#\real Bubble Trouble\real Bubble Trouble\bin\Debug\OpenTK.dll
+C:\Users\KaPi\Desktop\a\Nowy folder (2)\programowanie\c#\real Bubble Trouble\real Bubble Trouble\bin\Debug\real Bubble Trouble.exe.config
+C:\Users\KaPi\Desktop\a\Nowy folder (2)\programowanie\c#\real Bubble Trouble\real Bubble Trouble\bin\Debug\real Bubble Trouble.exe
+C:\Users\KaPi\Desktop\a\Nowy folder (2)\programowanie\c#\real Bubble Trouble\real Bubble Trouble\bin\Debug\real Bubble Trouble.pdb
+C:\Users\KaPi\Desktop\a\Nowy folder (2)\programowanie\c#\real Bubble Trouble\real Bubble Trouble\obj\Debug\real Bubble Trouble.csprojAssemblyReference.cache
+C:\Users\KaPi\Desktop\a\Nowy folder (2)\programowanie\c#\real Bubble Trouble\real Bubble Trouble\obj\Debug\real Bubble Trouble.csproj.CoreCompileInputs.cache
+C:\Users\KaPi\Desktop\a\Nowy folder (2)\programowanie\c#\real Bubble Trouble\real Bubble Trouble\obj\Debug\real Bubble Trouble.csproj.CopyComplete
+C:\Users\KaPi\Desktop\a\Nowy folder (2)\programowanie\c#\real Bubble Trouble\real Bubble Trouble\obj\Debug\real Bubble Trouble.exe
+C:\Users\KaPi\Desktop\a\Nowy folder (2)\programowanie\c#\real Bubble Trouble\real Bubble Trouble\obj\Debug\real Bubble Trouble.pdb
